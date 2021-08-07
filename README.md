@@ -17,5 +17,9 @@ SwiftUI/Swift
 
 
 
+https://user-images.githubusercontent.com/66451506/128609701-0378dba8-14dc-4dda-b59a-a7c0df8c52a5.mov
+
+
+
 # Inspirations
 I wanted to practice the abilities and learned, I decided that making a Clock UI example would be such a very nice way to try it out
